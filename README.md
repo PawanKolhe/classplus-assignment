@@ -8,7 +8,9 @@
    npm install
    ```
 
-2. Run dev server
+2. Create a `.env` file with the keys value pairs given in `.env.example`
+
+3. Run dev server
 
    ```bash
    npm run start
